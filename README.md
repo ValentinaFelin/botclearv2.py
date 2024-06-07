@@ -1,2 +1,0 @@
-# botclearv2.py
-.
